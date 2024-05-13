@@ -2,4 +2,6 @@
 
 > My first project with git and github
 
-> I'm in the featuring branch   
+> I'm in the featuring branch
+
+> Another code change
