@@ -1,6 +1,6 @@
 # My preject
 
-> My first project with git and github
+> my scary merge conflict code
 
 > I'm in the featuring branch
 
