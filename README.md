@@ -1,6 +1,6 @@
 # My preject
 
-> My first project with git and github
+> my innocent little change
 
 > I'm in the featuring branch
 
